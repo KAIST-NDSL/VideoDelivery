@@ -1,0 +1,6 @@
+[submodule "NAS_demo"]
+	path = NAS_demo
+	url = https://github.com/kaist-ina/NAS_demo
+[submodule "IO-TCP"]
+	path = IO-TCP
+	url = https://github.com/KAIST-NDSL/IO-TCP
